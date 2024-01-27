@@ -63,7 +63,9 @@ https://github.com/agnes31/SPA_VUE
 - Demo/video
 
 
-https://github.com/agnes31/SPA_VUE/assets/134739427/93cda699-5ac8-4a31-9afc-b0ba7cd71ca3
+https://github.com/agnes31/SPA_VUE/assets/134739427/c7d1376f-10f6-424a-9e10-f8569eee2f1f
+
+
 
 
   
