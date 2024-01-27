@@ -15,12 +15,14 @@ npm install -g @vue/cli
 2. Pour créer un projet Vue :
 
 ```bash
+cd client
 vue create client
 ```
 
 3. Pour utiliser le serveur local :
 
 ```bash
+cd server
 npm run serve
 ```
 
@@ -33,6 +35,7 @@ https://tailwindui.com/
 1. Pour configurer Tailwind CSS dans un projet Vue.js :
 
 ```bash
+cd client
 npm install tailwindcss postcss autoprefixer --force
 ```
 
@@ -47,6 +50,7 @@ npm tailwindcss init -p
 ## Installation Server
 
 ```bash
+cd server
 node.js
 ```
 
